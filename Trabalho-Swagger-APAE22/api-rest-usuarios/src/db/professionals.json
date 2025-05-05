@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Jonas",
+    "specialty": "Nutricionista",
+    "contact": "jonas.nutri@exemplo.com",
+    "phone_number": "48 9123 4567",
+    "status": "on"
+  },
+  {
+    "id": "2",
+    "name": "Clara Mendes",
+    "specialty": "Psicóloga",
+    "contact": "clara.mendes@exemplo.com",
+    "phone_number": "48 9988 7766",
+    "status": "off"
+  },
+  {
+    "id": "3",
+    "name": "Ricardo Lima",
+    "specialty": "Professor de Física",
+    "contact": "ricardo.lima@exemplo.com",
+    "phone_number": "48 9345 2211",
+    "status": "on"
+  },
+  {
+    "id": "4",
+    "name": "Fernanda Costa",
+    "specialty": "Terapeuta Ocupacional",
+    "contact": "fernanda.costa@exemplo.com",
+    "phone_number": "48 9456 7890",
+    "status": "on"
+  }
+]

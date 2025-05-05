@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Ana Clara Santos",
+    "email": "ana.santos@aluno.com",
+    "birth_date": "2010-05-15",
+    "class": "5A",
+    "status": "on"
+  },
+  {
+    "id": "2",
+    "name": "Pedro Henrique Lima",
+    "email": "pedro.lima@aluno.com",
+    "birth_date": "2009-08-22",
+    "class": "6B",
+    "status": "on"
+  },
+  {
+    "id": "3",
+    "name": "Mariana Costa",
+    "email": "mariana.costa@aluno.com",
+    "birth_date": "2011-03-10",
+    "class": "4C",
+    "status": "off"
+  }
+]
