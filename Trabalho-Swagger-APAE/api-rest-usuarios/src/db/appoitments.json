@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "student_id": "2",
+    "professional_id": "3",
+    "date": "2025-06-15",
+    "time": "14:00",
+    "type": "Acompanhamento Psicológico",
+    "status": "confirmed"
+  },
+  {
+    "id": "2",
+    "student_id": "1",
+    "professional_id": "3",
+    "date": "2025-06-16",
+    "time": "10:30",
+    "type": "Avaliação Nutricional",
+    "status": "pending"
+  },
+  {
+    "id": "3",
+    "student_id": "2",
+    "professional_id": "3",
+    "date": "2025-06-17",
+    "time": "15:45",
+    "type": "Terapia Ocupacional",
+    "status": "canceled"
+  },
+  {
+    "id": "4",
+    "patient": "jonas dalb",
+    "professional": "Dr. Clara Mendes",
+    "date": "2025-06-15",
+    "time": "14:00",
+   "status": "canceled"
+  },
+  {
+    "id": "5",
+    "patient": "eloas daelf",
+    "professional": "Dr. Clara Mendes",
+    "date": "2025-06-15",
+    "time": "14:00",
+    "status": "canceled"
+  }
+]

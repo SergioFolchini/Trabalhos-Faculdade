@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Palestra Inclusão",
+    "description": "Palestra sobre educação inclusiva",
+    "date": "2025-06-10",
+    "time": "19:00",
+    "location": "Auditório Principal",
+    "responsible": "Prof. João Silva",
+    "status": "confirmed"
+  },
+  {
+    "id": "2",
+    "title": "Workshop Arte Terapia",
+    "description": "Oficina de arte terapia para alunos",
+    "date": "2025-06-20",
+    "time": "14:00",
+    "location": "Sala de Artes",
+    "responsible": "Clara Mendes",
+    "status": "planned"
+  },
+  {
+    "id": "3",
+    "title": "Reunião de Pais",
+    "description": "Reunião semestral com os pais",
+    "date": "2025-07-05",
+    "time": "18:30",
+    "location": "Sala de Reuniões",
+    "responsible": "Direção Escolar",
+    "status": "scheduled"
+  }
+]

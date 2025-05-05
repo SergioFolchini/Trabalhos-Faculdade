@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Prof. João Silva",
+    "email": "joao.silva@escola.com",
+    "specialty": "Matemática",
+    "phone_number": "48 9111 2222"
+  },
+  {
+    "id": "2",
+    "name": "Prof. Maria Oliveira",
+    "email": "maria.oliveira@escola.com",
+    "specialty": "Português",
+    "phone_number": "48 9222 3333"
+  },
+  {
+    "id": "3",
+    "name": "Prof. Carlos Souza",
+    "email": "carlos.souza@escola.com",
+    "specialty": "História",
+    "phone_number": "48 9333 4444"
+  }
+]
